@@ -1,0 +1,28 @@
+name: Ondreas
+favicon: null
+layout_spectrum: 0.07379672559909523
+typography_spectrum: 0.6286536876577884
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.2844704184681177
+  lightness: 0.28836599667556584
+  saturation: 0.2924882231745869
+  rhythmicContrast: 0.5760135273449123
+purpose: []
